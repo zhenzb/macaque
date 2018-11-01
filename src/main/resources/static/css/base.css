@@ -1,0 +1,43 @@
+.header-tips-bk {
+    height: 32px;
+    background: #000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 99999999;
+}
+.header-tips {
+    color: #a7a7a7;
+    font-size: 14px;
+    line-height: 32px;
+}
+
+.section-body {
+    margin: 0 auto;
+    width: 1180px;
+    position: relative;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.glyphicon {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.header-tips-bk .section-body.header-tips .left marquee {
+    color: #FFCC00;
+}
+.header-tips a, .header-tips a:hover, .header-tips a:visited, .header-tips a:focus {
+    color: #21e668;
+}

@@ -1,0 +1,15 @@
+.header {
+    height: 90px;
+    margin-top: -20px;
+}
+
+.wrap {
+    width: 1180px;
+}
+.cen {
+    margin: 0 auto;
+}
+html, body, div, header, nav, footer, span, a, p, img, h1, h2, h3, h4, h5, ul, li {
+    padding: 0;
+    margin: 0;
+}
